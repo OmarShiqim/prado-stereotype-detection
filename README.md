@@ -61,5 +61,4 @@ Artworks from the Prado Museum. IE University Capstone Thesis.
 ## Acknowledgements
 
 This project was developed as part of the BDBA Capstone at IE University 
-under the supervision of Alex Martínez-Mingo. The AGRUPA library and 
-SADCAT pipeline were developed by the research group at IE University.
+under the supervision of Alejandro Martínez-Mingo. 
