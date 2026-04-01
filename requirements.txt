@@ -1,0 +1,32 @@
+# Python version: 3.12.3
+# CUDA version: 12.8
+
+# Core deep learning
+torch==2.12.0
+torchvision
+
+# HuggingFace
+transformers
+accelerate
+
+# Data handling
+pandas
+numpy
+sqlite3
+
+# Image processing
+Pillow
+
+# Statistical analysis
+scipy
+matplotlib
+
+# Progress tracking
+tqdm
+
+# Jupyter
+ipykernel
+nbconvert
+
+# DeepSeek-VL
+deepseek-vl
